@@ -4,5 +4,5 @@ const currentUser = 'Grace Hopper';
  
 const welcomeMessage = `Welcome to Flatbook, ${currentUser}!`;
 
-const excitedWelcomeMessage = wlecomeMessage.toUpperCase();
+const excitedWelcomeMessage = welcomeMessage.toUpperCase();
 
